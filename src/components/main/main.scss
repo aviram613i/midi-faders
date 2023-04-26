@@ -1,0 +1,10 @@
+@import "../../index.scss";
+
+.main {
+  padding: 60px;
+  display: block;
+  p {
+    display: flex;
+    justify-content: center;
+  }
+}
