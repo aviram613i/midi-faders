@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/midi-faders/static/css/main.41742fd1.css",
-    "main.js": "/midi-faders/static/js/main.1608b7a6.js",
+    "main.js": "/midi-faders/static/js/main.9dd8a346.js",
     "static/js/787.7e7a68aa.chunk.js": "/midi-faders/static/js/787.7e7a68aa.chunk.js",
     "static/media/logo.svg": "/midi-faders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/midi-faders/index.html",
     "main.41742fd1.css.map": "/midi-faders/static/css/main.41742fd1.css.map",
-    "main.1608b7a6.js.map": "/midi-faders/static/js/main.1608b7a6.js.map",
+    "main.9dd8a346.js.map": "/midi-faders/static/js/main.9dd8a346.js.map",
     "787.7e7a68aa.chunk.js.map": "/midi-faders/static/js/787.7e7a68aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41742fd1.css",
-    "static/js/main.1608b7a6.js"
+    "static/js/main.9dd8a346.js"
   ]
 }
